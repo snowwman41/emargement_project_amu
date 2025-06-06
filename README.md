@@ -40,7 +40,8 @@ Professors see tools to:
    - Manage their courses and sessions
    - Generate and display QR codes for check-in
 
-
+## 🖼️images
+![BLE Beacon](assets/beacon.png)
 
 ## 🎥 Demo Videos
 
