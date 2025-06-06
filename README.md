@@ -41,7 +41,8 @@ Professors see tools to:
    - Generate and display QR codes for check-in
 
 ## 🖼️images
-![BLE Beacon](assets/beacon.png)
+### Beacon BLE
+![BLE Beacon](assets/BLE.png)
 
 ## 🎥 Demo Videos
 
