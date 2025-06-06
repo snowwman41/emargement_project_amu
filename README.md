@@ -1,9 +1,9 @@
 # 📘 AMU Émargement Project 
 The project applies and integrates Spring Boot, Jetpack Compose, and TypeScript, following MVC and MVVM architectural patterns for clean and scalable development.
-( ** Project in early development -> UX to be redesigned **)
+**Project in early development -> UX to be redesigned**
 
 
-A mobile application designed for students and professors at Aix-Marseille University (AMU) to manage course attendance in a secure, user-friendly, and modern way.
+this project is developped for students and professors at Aix-Marseille University (AMU) to manage course attendance in a secure, user-friendly, and modern way.
 
 ## 🎯 Project Overview
 
