@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1c0707a1-242d-451d-b911-da984aed985f",
+    "userName": "Bauer",
+    "userFirstName": "Oscar",
+    "sessionId": "35ec002e-20fa-445d-9a1c-99a78940722e",
+    "verificationCode": "testcode"
+  },
+  {
+    "id": "1c0707a1-242d-451d-b112-a2984aed985e",
+    "userName": "Bernhardt",
+    "userFirstName": "Irgendein",
+    "coursName": "Sport"
+  },
+  {
+    "id": "1c0707a1-242d-451d-b911-ba984aed985e",
+    "userName": "Hamilton",
+    "userFirstName": "Lewis",
+    "coursName": "Philosophie"
+  }
+]

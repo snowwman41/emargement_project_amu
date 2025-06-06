@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" lang="fr" th:fragment="base(title, content)">
+<head>
+    <title>Signature</title>
+</head>
+<body>
+<div class="container">
+    <table class="table table-striped">
+        <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>User name</th>
+            <th>User first name</th>
+            <th>Session Id</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="signature : ${signatures}">
+            <td th:text="${signature.id}"></td>
+            <td th:text="${signature.userName}"></td>
+            <td th:text="${signature.userFirstName}"></td>
+            <td th:text="${signature.sessionId}"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

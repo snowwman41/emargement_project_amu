@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" lang="fr" th:fragment="base(title, content)">
+<head>
+    <title>Students</title>
+</head>
+<body>
+<div class="container">
+    <table class="table table-striped">
+        <thead class="table-dark">
+        <tr>
+            <th>N°</th>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="stud : ${student}">
+            <td th:text="${stud.id}"></td>
+            <td th:text="${stud.name}"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
