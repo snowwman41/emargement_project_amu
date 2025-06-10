@@ -20,7 +20,7 @@ The BLE Beacon method ensures enhanced **security and presence validation**, as 
 
 - **Frontend**: Kotlin + Jetpack Compose (Android), MVVM / Clean architecture, hilt DI
 - **Backend**: Java spring boot/ Mysql, JPA/Hibernate ORM
-- **Backend**: TypeScript
+- **front web**: TypeScript
 
 ## 🚀 How It Works
 
